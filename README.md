@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%#F81300&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Diana+Carolina+Chacón+López;+Welcome+to+My+Profile!;Always+learning+new+things+;A+passionate+full+stack+developer+from+Colombia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%F81300&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Diana+Carolina+Chacón+López;+Welcome+to+My+Profile!;Always+learning+new+things+;A+passionate+full+stack+developer+from+Colombia)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dicachalo&label=Profile%20views&color=0e75b6&style=flat" alt="dicachalo" /> </p>
