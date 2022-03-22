@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Diana+Carolina+Chacón+López;+Welcome+to+My+Profile!;Always+learning+new+things+;A+passionate+full+stack+developer+from+Colombia)](https://git.io/typing-svg)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dicachalo&label=Profile%20views&color=0e75b6&style=flat" alt="dicachalo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dicachalo" alt="dicachalo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dicachalo" target="blank"><img src="https://img.shields.io/twitter/follow/dicachalo?logo=twitter&style=for-the-badge" alt="dicachalo" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dicachalo&label=Profile%20views&color=0e75b6&style=flat" alt="dicachalo" /></p>
 
 - 🌱 I’m currently learning **Angular**
 
